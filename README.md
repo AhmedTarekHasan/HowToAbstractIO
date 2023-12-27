@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/how-to-fully-cover-i-o-file-based-applications-in-net-c-with-unit-tests-ca75c07f3b2c?sk=bc164097aca7c1d31e32e4dd35a60163" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/how-to-fully-cover-i-o-file-based-applications-in-net-c-with-unit-tests" />
 
 # How To Fully Cover I/O File Based Applications in .NET C# With Unit Tests
 ### Learn how to divide the application into smaller modules which you can cover by 100%
 
 <p align="center">
-  <img src="https://miro.medium.com/max/2000/1*LNIQ-nr-F_GzNbRWZB7PdQ.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_e11b4ee1691d402d8c6eab3ca79e6de7~mv2.png/v1/fill/w_827,h_550,al_c,q_90,enc_auto/488a99_e11b4ee1691d402d8c6eab3ca79e6de7~mv2.png">
 </p>
 
 <br/>
@@ -53,4 +53,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/how-to-fully-cover-i-o-file-based-applications-in-net-c-with-unit-tests-ca75c07f3b2c?sk=bc164097aca7c1d31e32e4dd35a60163
+[Article]: https://www.developmentsimplyput.com/post/how-to-fully-cover-i-o-file-based-applications-in-net-c-with-unit-tests
